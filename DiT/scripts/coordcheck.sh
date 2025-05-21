@@ -1,0 +1,1 @@
+python coordcheck.py --load_base_shapes width288_d28.bsh

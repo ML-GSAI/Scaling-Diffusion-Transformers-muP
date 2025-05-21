@@ -1,0 +1,737 @@
+# This is a base shape file encoded in yaml
+# - `null` indicates a dimension is "finite", i.e. a non-"width" dimension
+# - a number indicates the base dimension of an "infinite" dimension, i.e. some notion of "width"
+blocks.0.adaLN_modulation.1.bias:
+- 1728
+blocks.0.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.0.attn.proj.bias:
+- 288
+blocks.0.attn.proj.weight:
+- 288
+- 288
+blocks.0.attn.qkv.bias:
+- 864
+blocks.0.attn.qkv.weight:
+- 864
+- 288
+blocks.0.mlp.fc1.bias:
+- 1152
+blocks.0.mlp.fc1.weight:
+- 1152
+- 288
+blocks.0.mlp.fc2.bias:
+- 288
+blocks.0.mlp.fc2.weight:
+- 288
+- 1152
+blocks.1.adaLN_modulation.1.bias:
+- 1728
+blocks.1.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.1.attn.proj.bias:
+- 288
+blocks.1.attn.proj.weight:
+- 288
+- 288
+blocks.1.attn.qkv.bias:
+- 864
+blocks.1.attn.qkv.weight:
+- 864
+- 288
+blocks.1.mlp.fc1.bias:
+- 1152
+blocks.1.mlp.fc1.weight:
+- 1152
+- 288
+blocks.1.mlp.fc2.bias:
+- 288
+blocks.1.mlp.fc2.weight:
+- 288
+- 1152
+blocks.10.adaLN_modulation.1.bias:
+- 1728
+blocks.10.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.10.attn.proj.bias:
+- 288
+blocks.10.attn.proj.weight:
+- 288
+- 288
+blocks.10.attn.qkv.bias:
+- 864
+blocks.10.attn.qkv.weight:
+- 864
+- 288
+blocks.10.mlp.fc1.bias:
+- 1152
+blocks.10.mlp.fc1.weight:
+- 1152
+- 288
+blocks.10.mlp.fc2.bias:
+- 288
+blocks.10.mlp.fc2.weight:
+- 288
+- 1152
+blocks.11.adaLN_modulation.1.bias:
+- 1728
+blocks.11.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.11.attn.proj.bias:
+- 288
+blocks.11.attn.proj.weight:
+- 288
+- 288
+blocks.11.attn.qkv.bias:
+- 864
+blocks.11.attn.qkv.weight:
+- 864
+- 288
+blocks.11.mlp.fc1.bias:
+- 1152
+blocks.11.mlp.fc1.weight:
+- 1152
+- 288
+blocks.11.mlp.fc2.bias:
+- 288
+blocks.11.mlp.fc2.weight:
+- 288
+- 1152
+blocks.12.adaLN_modulation.1.bias:
+- 1728
+blocks.12.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.12.attn.proj.bias:
+- 288
+blocks.12.attn.proj.weight:
+- 288
+- 288
+blocks.12.attn.qkv.bias:
+- 864
+blocks.12.attn.qkv.weight:
+- 864
+- 288
+blocks.12.mlp.fc1.bias:
+- 1152
+blocks.12.mlp.fc1.weight:
+- 1152
+- 288
+blocks.12.mlp.fc2.bias:
+- 288
+blocks.12.mlp.fc2.weight:
+- 288
+- 1152
+blocks.13.adaLN_modulation.1.bias:
+- 1728
+blocks.13.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.13.attn.proj.bias:
+- 288
+blocks.13.attn.proj.weight:
+- 288
+- 288
+blocks.13.attn.qkv.bias:
+- 864
+blocks.13.attn.qkv.weight:
+- 864
+- 288
+blocks.13.mlp.fc1.bias:
+- 1152
+blocks.13.mlp.fc1.weight:
+- 1152
+- 288
+blocks.13.mlp.fc2.bias:
+- 288
+blocks.13.mlp.fc2.weight:
+- 288
+- 1152
+blocks.14.adaLN_modulation.1.bias:
+- 1728
+blocks.14.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.14.attn.proj.bias:
+- 288
+blocks.14.attn.proj.weight:
+- 288
+- 288
+blocks.14.attn.qkv.bias:
+- 864
+blocks.14.attn.qkv.weight:
+- 864
+- 288
+blocks.14.mlp.fc1.bias:
+- 1152
+blocks.14.mlp.fc1.weight:
+- 1152
+- 288
+blocks.14.mlp.fc2.bias:
+- 288
+blocks.14.mlp.fc2.weight:
+- 288
+- 1152
+blocks.15.adaLN_modulation.1.bias:
+- 1728
+blocks.15.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.15.attn.proj.bias:
+- 288
+blocks.15.attn.proj.weight:
+- 288
+- 288
+blocks.15.attn.qkv.bias:
+- 864
+blocks.15.attn.qkv.weight:
+- 864
+- 288
+blocks.15.mlp.fc1.bias:
+- 1152
+blocks.15.mlp.fc1.weight:
+- 1152
+- 288
+blocks.15.mlp.fc2.bias:
+- 288
+blocks.15.mlp.fc2.weight:
+- 288
+- 1152
+blocks.16.adaLN_modulation.1.bias:
+- 1728
+blocks.16.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.16.attn.proj.bias:
+- 288
+blocks.16.attn.proj.weight:
+- 288
+- 288
+blocks.16.attn.qkv.bias:
+- 864
+blocks.16.attn.qkv.weight:
+- 864
+- 288
+blocks.16.mlp.fc1.bias:
+- 1152
+blocks.16.mlp.fc1.weight:
+- 1152
+- 288
+blocks.16.mlp.fc2.bias:
+- 288
+blocks.16.mlp.fc2.weight:
+- 288
+- 1152
+blocks.17.adaLN_modulation.1.bias:
+- 1728
+blocks.17.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.17.attn.proj.bias:
+- 288
+blocks.17.attn.proj.weight:
+- 288
+- 288
+blocks.17.attn.qkv.bias:
+- 864
+blocks.17.attn.qkv.weight:
+- 864
+- 288
+blocks.17.mlp.fc1.bias:
+- 1152
+blocks.17.mlp.fc1.weight:
+- 1152
+- 288
+blocks.17.mlp.fc2.bias:
+- 288
+blocks.17.mlp.fc2.weight:
+- 288
+- 1152
+blocks.18.adaLN_modulation.1.bias:
+- 1728
+blocks.18.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.18.attn.proj.bias:
+- 288
+blocks.18.attn.proj.weight:
+- 288
+- 288
+blocks.18.attn.qkv.bias:
+- 864
+blocks.18.attn.qkv.weight:
+- 864
+- 288
+blocks.18.mlp.fc1.bias:
+- 1152
+blocks.18.mlp.fc1.weight:
+- 1152
+- 288
+blocks.18.mlp.fc2.bias:
+- 288
+blocks.18.mlp.fc2.weight:
+- 288
+- 1152
+blocks.19.adaLN_modulation.1.bias:
+- 1728
+blocks.19.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.19.attn.proj.bias:
+- 288
+blocks.19.attn.proj.weight:
+- 288
+- 288
+blocks.19.attn.qkv.bias:
+- 864
+blocks.19.attn.qkv.weight:
+- 864
+- 288
+blocks.19.mlp.fc1.bias:
+- 1152
+blocks.19.mlp.fc1.weight:
+- 1152
+- 288
+blocks.19.mlp.fc2.bias:
+- 288
+blocks.19.mlp.fc2.weight:
+- 288
+- 1152
+blocks.2.adaLN_modulation.1.bias:
+- 1728
+blocks.2.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.2.attn.proj.bias:
+- 288
+blocks.2.attn.proj.weight:
+- 288
+- 288
+blocks.2.attn.qkv.bias:
+- 864
+blocks.2.attn.qkv.weight:
+- 864
+- 288
+blocks.2.mlp.fc1.bias:
+- 1152
+blocks.2.mlp.fc1.weight:
+- 1152
+- 288
+blocks.2.mlp.fc2.bias:
+- 288
+blocks.2.mlp.fc2.weight:
+- 288
+- 1152
+blocks.20.adaLN_modulation.1.bias:
+- 1728
+blocks.20.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.20.attn.proj.bias:
+- 288
+blocks.20.attn.proj.weight:
+- 288
+- 288
+blocks.20.attn.qkv.bias:
+- 864
+blocks.20.attn.qkv.weight:
+- 864
+- 288
+blocks.20.mlp.fc1.bias:
+- 1152
+blocks.20.mlp.fc1.weight:
+- 1152
+- 288
+blocks.20.mlp.fc2.bias:
+- 288
+blocks.20.mlp.fc2.weight:
+- 288
+- 1152
+blocks.21.adaLN_modulation.1.bias:
+- 1728
+blocks.21.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.21.attn.proj.bias:
+- 288
+blocks.21.attn.proj.weight:
+- 288
+- 288
+blocks.21.attn.qkv.bias:
+- 864
+blocks.21.attn.qkv.weight:
+- 864
+- 288
+blocks.21.mlp.fc1.bias:
+- 1152
+blocks.21.mlp.fc1.weight:
+- 1152
+- 288
+blocks.21.mlp.fc2.bias:
+- 288
+blocks.21.mlp.fc2.weight:
+- 288
+- 1152
+blocks.22.adaLN_modulation.1.bias:
+- 1728
+blocks.22.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.22.attn.proj.bias:
+- 288
+blocks.22.attn.proj.weight:
+- 288
+- 288
+blocks.22.attn.qkv.bias:
+- 864
+blocks.22.attn.qkv.weight:
+- 864
+- 288
+blocks.22.mlp.fc1.bias:
+- 1152
+blocks.22.mlp.fc1.weight:
+- 1152
+- 288
+blocks.22.mlp.fc2.bias:
+- 288
+blocks.22.mlp.fc2.weight:
+- 288
+- 1152
+blocks.23.adaLN_modulation.1.bias:
+- 1728
+blocks.23.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.23.attn.proj.bias:
+- 288
+blocks.23.attn.proj.weight:
+- 288
+- 288
+blocks.23.attn.qkv.bias:
+- 864
+blocks.23.attn.qkv.weight:
+- 864
+- 288
+blocks.23.mlp.fc1.bias:
+- 1152
+blocks.23.mlp.fc1.weight:
+- 1152
+- 288
+blocks.23.mlp.fc2.bias:
+- 288
+blocks.23.mlp.fc2.weight:
+- 288
+- 1152
+blocks.24.adaLN_modulation.1.bias:
+- 1728
+blocks.24.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.24.attn.proj.bias:
+- 288
+blocks.24.attn.proj.weight:
+- 288
+- 288
+blocks.24.attn.qkv.bias:
+- 864
+blocks.24.attn.qkv.weight:
+- 864
+- 288
+blocks.24.mlp.fc1.bias:
+- 1152
+blocks.24.mlp.fc1.weight:
+- 1152
+- 288
+blocks.24.mlp.fc2.bias:
+- 288
+blocks.24.mlp.fc2.weight:
+- 288
+- 1152
+blocks.25.adaLN_modulation.1.bias:
+- 1728
+blocks.25.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.25.attn.proj.bias:
+- 288
+blocks.25.attn.proj.weight:
+- 288
+- 288
+blocks.25.attn.qkv.bias:
+- 864
+blocks.25.attn.qkv.weight:
+- 864
+- 288
+blocks.25.mlp.fc1.bias:
+- 1152
+blocks.25.mlp.fc1.weight:
+- 1152
+- 288
+blocks.25.mlp.fc2.bias:
+- 288
+blocks.25.mlp.fc2.weight:
+- 288
+- 1152
+blocks.26.adaLN_modulation.1.bias:
+- 1728
+blocks.26.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.26.attn.proj.bias:
+- 288
+blocks.26.attn.proj.weight:
+- 288
+- 288
+blocks.26.attn.qkv.bias:
+- 864
+blocks.26.attn.qkv.weight:
+- 864
+- 288
+blocks.26.mlp.fc1.bias:
+- 1152
+blocks.26.mlp.fc1.weight:
+- 1152
+- 288
+blocks.26.mlp.fc2.bias:
+- 288
+blocks.26.mlp.fc2.weight:
+- 288
+- 1152
+blocks.27.adaLN_modulation.1.bias:
+- 1728
+blocks.27.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.27.attn.proj.bias:
+- 288
+blocks.27.attn.proj.weight:
+- 288
+- 288
+blocks.27.attn.qkv.bias:
+- 864
+blocks.27.attn.qkv.weight:
+- 864
+- 288
+blocks.27.mlp.fc1.bias:
+- 1152
+blocks.27.mlp.fc1.weight:
+- 1152
+- 288
+blocks.27.mlp.fc2.bias:
+- 288
+blocks.27.mlp.fc2.weight:
+- 288
+- 1152
+blocks.3.adaLN_modulation.1.bias:
+- 1728
+blocks.3.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.3.attn.proj.bias:
+- 288
+blocks.3.attn.proj.weight:
+- 288
+- 288
+blocks.3.attn.qkv.bias:
+- 864
+blocks.3.attn.qkv.weight:
+- 864
+- 288
+blocks.3.mlp.fc1.bias:
+- 1152
+blocks.3.mlp.fc1.weight:
+- 1152
+- 288
+blocks.3.mlp.fc2.bias:
+- 288
+blocks.3.mlp.fc2.weight:
+- 288
+- 1152
+blocks.4.adaLN_modulation.1.bias:
+- 1728
+blocks.4.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.4.attn.proj.bias:
+- 288
+blocks.4.attn.proj.weight:
+- 288
+- 288
+blocks.4.attn.qkv.bias:
+- 864
+blocks.4.attn.qkv.weight:
+- 864
+- 288
+blocks.4.mlp.fc1.bias:
+- 1152
+blocks.4.mlp.fc1.weight:
+- 1152
+- 288
+blocks.4.mlp.fc2.bias:
+- 288
+blocks.4.mlp.fc2.weight:
+- 288
+- 1152
+blocks.5.adaLN_modulation.1.bias:
+- 1728
+blocks.5.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.5.attn.proj.bias:
+- 288
+blocks.5.attn.proj.weight:
+- 288
+- 288
+blocks.5.attn.qkv.bias:
+- 864
+blocks.5.attn.qkv.weight:
+- 864
+- 288
+blocks.5.mlp.fc1.bias:
+- 1152
+blocks.5.mlp.fc1.weight:
+- 1152
+- 288
+blocks.5.mlp.fc2.bias:
+- 288
+blocks.5.mlp.fc2.weight:
+- 288
+- 1152
+blocks.6.adaLN_modulation.1.bias:
+- 1728
+blocks.6.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.6.attn.proj.bias:
+- 288
+blocks.6.attn.proj.weight:
+- 288
+- 288
+blocks.6.attn.qkv.bias:
+- 864
+blocks.6.attn.qkv.weight:
+- 864
+- 288
+blocks.6.mlp.fc1.bias:
+- 1152
+blocks.6.mlp.fc1.weight:
+- 1152
+- 288
+blocks.6.mlp.fc2.bias:
+- 288
+blocks.6.mlp.fc2.weight:
+- 288
+- 1152
+blocks.7.adaLN_modulation.1.bias:
+- 1728
+blocks.7.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.7.attn.proj.bias:
+- 288
+blocks.7.attn.proj.weight:
+- 288
+- 288
+blocks.7.attn.qkv.bias:
+- 864
+blocks.7.attn.qkv.weight:
+- 864
+- 288
+blocks.7.mlp.fc1.bias:
+- 1152
+blocks.7.mlp.fc1.weight:
+- 1152
+- 288
+blocks.7.mlp.fc2.bias:
+- 288
+blocks.7.mlp.fc2.weight:
+- 288
+- 1152
+blocks.8.adaLN_modulation.1.bias:
+- 1728
+blocks.8.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.8.attn.proj.bias:
+- 288
+blocks.8.attn.proj.weight:
+- 288
+- 288
+blocks.8.attn.qkv.bias:
+- 864
+blocks.8.attn.qkv.weight:
+- 864
+- 288
+blocks.8.mlp.fc1.bias:
+- 1152
+blocks.8.mlp.fc1.weight:
+- 1152
+- 288
+blocks.8.mlp.fc2.bias:
+- 288
+blocks.8.mlp.fc2.weight:
+- 288
+- 1152
+blocks.9.adaLN_modulation.1.bias:
+- 1728
+blocks.9.adaLN_modulation.1.weight:
+- 1728
+- 288
+blocks.9.attn.proj.bias:
+- 288
+blocks.9.attn.proj.weight:
+- 288
+- 288
+blocks.9.attn.qkv.bias:
+- 864
+blocks.9.attn.qkv.weight:
+- 864
+- 288
+blocks.9.mlp.fc1.bias:
+- 1152
+blocks.9.mlp.fc1.weight:
+- 1152
+- 288
+blocks.9.mlp.fc2.bias:
+- 288
+blocks.9.mlp.fc2.weight:
+- 288
+- 1152
+final_layer.adaLN_modulation.1.bias:
+- 576
+final_layer.adaLN_modulation.1.weight:
+- 576
+- 288
+final_layer.linear.bias:
+- null
+final_layer.linear.weight:
+- null
+- 288
+pos_embed:
+- null
+- null
+- 288
+t_embedder.mlp.0.bias:
+- 288
+t_embedder.mlp.0.weight:
+- 288
+- null
+t_embedder.mlp.2.bias:
+- 288
+t_embedder.mlp.2.weight:
+- 288
+- 288
+x_embedder.proj.bias:
+- 288
+x_embedder.proj.weight:
+- 288
+- null
+- null
+- null
+y_embedder.embedding_table.weight:
+- null
+- 288
