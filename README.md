@@ -14,7 +14,7 @@ This is the official implementation for our paper **"Scaling Diffusion Transform
 
 1. We rigorously prove that μP of mainstream diffusion Transformers aligns with the [existing framework](https://arxiv.org/abs/2203.03466), enabling the direct application of existing [μP methodologies](https://github.com/microsoft/mup) .
 
-2. We systematically demonstrate that DiT under μP enjoys robust HP transferability. Notably, DiT-XL-2-μP with transferred learning rate achieves 2.9$\times$ faster convergence than the original DiT-XL-2.
+2. We systematically demonstrate that DiT under μP enjoys robust HP transferability. Notably, DiT-XL-2-μP with transferred learning rate achieves 2.9 times faster convergence than the original DiT-XL-2.
 
    <img src="assets/fid_pretraining_dit.png" alt="fid_pretraining_dit" style="zoom:80%;" />
 
@@ -22,7 +22,7 @@ This is the official implementation for our paper **"Scaling Diffusion Transform
 
 In this repository, we provide the code and introduction to reproduce our experiments on DiT and PixArt-α. Our setup and codebase follow the remarkable [DiT](https://github.com/facebookresearch/DiT/blob/main/environment.yml),  [PixArt-α](https://github.com/PixArt-alpha/PixArt-alpha/blob/master/requirements.txt) and [Maximal Update Parametrization (μP)](https://github.com/microsoft/mup).
 
-## Systematic Investigation for DiT-μP on ImageNet
+## Systematic investigation for DiT-μP on ImageNet
 
 ### Implementation of DiT-μP
 
@@ -42,7 +42,7 @@ We verify that DiT under μP enjoys robust HP transferability as the following f
 
 ![HP_transfer](assets/HP_transfer.jpg)
 
-We describe how to reproduce Figure (a) here.
+We describe how to reproduce Figure 3(a) in our paper.
 
 First, we need to train some DiTs with different widths and learning rates under μP. 
 
