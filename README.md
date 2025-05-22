@@ -1,6 +1,6 @@
 # Scaling Diffusion Transformers Efficiently via μP
 
-This is the official implementation for our paper **"Scaling Diffusion Transformers Efficiently via μP"**. We verify that μP enables stable hyperparameter (HP) transfer from small to large diffusion Transformers, and dramatically reduces HP tuning costs at scale. As a result, diffusion Transformers under μP outperform their respective baselines while requiring small tuning cost (e.g., 3% FLOPs of human experts for MMDiT-18B).
+This is the official implementation for our paper **"[Scaling Diffusion Transformers Efficiently via μP](https://arxiv.org/abs/2505.15270)"**. We verify that μP enables stable hyperparameter (HP) transfer from small to large diffusion Transformers, and dramatically reduces HP tuning costs at scale. As a result, diffusion Transformers under μP outperform their respective baselines while requiring small tuning cost (e.g., 3% FLOPs of human experts for MMDiT-18B).
 
 <img src="assets/vis.jpg" alt="vis" style="zoom:50%;" />
 
@@ -255,4 +255,4 @@ This project is heavily based on the remarkable [DiT](https://github.com/faceboo
 
 ## Citation
 
-If our paper **"Scaling Diffusion Transformers Efficiently via μP"** or this repository was useful to you, please cite:
+If our paper **"[Scaling Diffusion Transformers Efficiently via μP](https://arxiv.org/abs/2505.15270)"** or this repository was useful to you, please cite:
