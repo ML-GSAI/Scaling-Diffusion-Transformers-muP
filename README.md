@@ -4,6 +4,10 @@ This is the official implementation for our paper **"[Scaling Diffusion Transfor
 
 <img src="assets/vis.jpg" alt="vis" style="zoom:50%;" />
 
+## News
++ 2025/06/27: We release the checkpoints of DiT-XL-2-μP and PixArt-α-μP at https://huggingface.co/GSAI-ML/DiT-muP.
++ 2025/05/21: We release the code of DiT and PixArt-α.
+
 ## What is μP?
 
 [Maximal Update Parametrization (μP)](https://github.com/microsoft/mup) was recently proposed as a promising solution to the HP selection problem for large models (e.g.,  vanilla Transformer). It stabilizes optimal HPs across different model widths, enabling direct transfer of HPs searched from small models to large models (a.k.a., μTransfer algorithm) and significantly reducing tuning costs at scale. Due to its strong transferability, μP has been applied to the pretraining of large language models (LLMs).
